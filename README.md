@@ -1,5 +1,5 @@
 # Netflix Clone
-
+![Netflix Clone](https://github.com/amitkumardemo/WEATHER-WEBSITE/blob/main/Screenshot%202024-01-15%20054032.png) <!-- Optional: Add a project image or logo -->
 ## Overview
 
 The Netflix Clone is a web application that replicates the core features of Netflix. It provides a user interface for browsing movies and TV shows, playing media, and managing user profiles. This project was developed as part of the Bharat Internship program and demonstrates skills in front-end development and integration with third-party APIs.
